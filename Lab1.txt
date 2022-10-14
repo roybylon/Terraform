@@ -1,6 +1,6 @@
 Login into your github and create a new public repo called Terraform
 Initialize a git repo called Terraform in your local machine
-CD into this repo and clone ......
+CD into this repo and clone https://github.com/awscloudessentials/Terraform.git
 Create a hidden file called gitignore (File names added to this file,keeps the files hidden from anyone viewing your repo,prevents git from tracking the file)
 Create a file "notes.txt" with content "things i do not want to share on github"
 Add the file name into your gitignore file using cat or text editor
